@@ -1,4 +1,4 @@
-# ConsoleApplications
+# Console Applications
 
 Simple console applications made during first workshop ont the Java Web Developer course. 
 
