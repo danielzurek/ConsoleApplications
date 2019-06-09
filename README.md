@@ -1,6 +1,6 @@
-# Workshop_01
+# ConsoleApplications
 
-First workshop made during CodersLab Java Web Developer course. 
+Simple console applications made during first workshop ont the Java Web Developer course. 
 
 
 ## Completed tasks: 
